@@ -1,9 +1,12 @@
-# ✏ 클래스 101 프로젝트 기능 설명 
+# ✏ 클래스 101 프로젝트
 ## 🚀 링크
 ### [사이트 바로가기](https://goseongho.github.io/class101/) 
 ## 🛠 SKILL 
 ### jQuery  
 ### Slick Slider (optional)
+## 🖥 메인페이지
+![image](https://github.com/goseongho/class101/assets/152961741/e9ef2d4b-6bfb-4cc8-94dc-565e3913efb4)
+
 
 ## ⭐️ 프로젝트 설명
 헤더와 푸터 Include
