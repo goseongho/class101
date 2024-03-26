@@ -1,6 +1,9 @@
-# ✏ 클래스 101 프로젝트 기능 설명
+# ✏ 클래스 101 프로젝트 기능 설명 
 ## 🚀 링크
-### [사이트 바로가기](https://goseongho.github.io/class101/) <br><br>
+### [사이트 바로가기](https://goseongho.github.io/class101/) 
+## 🛠 SKILL 
+### jQuery  
+### Slick Slider (optional)
 
 ## ⭐️ 프로젝트 설명
 헤더와 푸터 Include
@@ -42,7 +45,3 @@
 
 장바구니 아이템 삭제 및 전체 삭제 기능을 제공합니다.
 
-### 의존성
-
-- jQuery
-- Slick Slider (optional
